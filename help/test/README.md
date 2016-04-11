@@ -79,3 +79,6 @@ Be careful with the **imdb** argument as it specifies the dataset you will train
 
 [Fast-RCNN] https://github.com/rbgirshick/fast-rcnn
 
+### Contact
+
+Feel free to contact me at <zeyuanxy@gmail.com>.

@@ -252,3 +252,8 @@ Results generated before this commit will have some stochastic variation.
     - [voc_2012_test_results_fast_rcnn_vgg16_trained_on_2007_trainvaltest_2012_trainval.tgz](http://www.cs.berkeley.edu/~rbg/fast-rcnn-data/voc_2012_test_results_fast_rcnn_vgg16_trained_on_2007_trainvaltest_2012_trainval.tgz)
     - [voc_2012_test_results_fast_rcnn_vgg16_trained_on_2012_trainval.tgz](http://www.cs.berkeley.edu/~rbg/fast-rcnn-data/voc_2012_test_results_fast_rcnn_vgg16_trained_on_2012_trainval.tgz)
 - [Fast R-CNN VGG16 model](http://www.cs.berkeley.edu/~rbg/fast-rcnn-data/voc12_submission.tgz) trained on VOC07 train,val,test union with VOC12 train,val
+
+
+### Train and Test on Another Dataset
+- [Train](https://github.com/zeyuanxy/fast-rcnn/blob/master/help/train/README.md)
+- [Test](https://github.com/zeyuanxy/fast-rcnn/blob/master/help/test/README.md)
